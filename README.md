@@ -1,5 +1,5 @@
 ## Spark Streaming
-Spark Streaming untuk mengolah data dari Kafka
+Spark Streaming untuk mengolah data dari **Kafka**
 
 ### Requirement
 - Apache Spark
@@ -11,4 +11,4 @@ Spark Streaming untuk mengolah data dari Kafka
 - Stop : `docker-compose down`
 
 ### Explanation
-Spark Streaming untuk mengolah data dari Kafka secara real-time 
+Spark Streaming untuk mengolah data dari **Kafka** secara real-time 
